@@ -1,0 +1,141 @@
+[
+{
+	"type": "Country",
+	"name": "US",
+	"expanded": false,
+	"children": [
+		{
+			"type": "State",
+			"name": "AZ",
+			"expanded": false,
+			"children": [
+				{
+					"type": "City",
+					"name": "Phoenix",
+					"expanded": false,
+					"children": []
+				},
+				{
+					"type": "City",
+					"name": "Chandler",
+					"expanded": false,
+					"children": []
+				},
+				{
+					"type": "City",
+					"name": "Tempe",
+					"expanded": false,
+					"children": []
+				}
+			]
+		},
+		{
+			"type": "State",
+			"name": "TX",
+			"expanded": false,
+			"children": [
+				{
+					"type": "City",
+					"name": "Dallas",
+					"expanded": false,
+					"children": []
+				},
+				{
+					"type": "City",
+					"name": "Irving",
+					"expanded": false,
+					"children": []
+				},
+				{
+					"type": "City",
+					"name": "Plano",
+					"expanded": false,
+					"children": []
+				}
+			]
+		},
+		{
+			"type": "State",
+			"name": "CA",
+			"expanded": false,
+			"children": [
+				{
+					"type": "City",
+					"name": "Los Angeles",
+					"expanded": false,
+					"children": []
+				},
+				{
+					"type": "City",
+					"name": "San Francisco",
+					"expanded": false,
+					"children": []
+				},
+				{
+					"type": "City",
+					"name": "San Diego",
+					"expanded": false,
+					"children": []
+				}
+			]
+		}
+	]
+},
+{
+	"type": "Country",
+	"name": "India",
+	"expanded": false,
+	"children": [
+		{
+			"type": "State",
+			"name": "Maharashtra",
+			"expanded": false,
+			"children": [
+				{
+					"type": "City",
+					"name": "Mumbai",
+					"expanded": false,
+					"children": []
+				},
+				{
+					"type": "City",
+					"name": "Pune",
+					"expanded": false,
+					"children": []
+				},
+				{
+					"type": "City",
+					"name": "Nagpur",
+					"expanded": false,
+					"children": []
+				}
+			]
+		},
+		{
+			"type": "State",
+			"name": "Karnataka",
+			"expanded": false,
+			"children": [
+				{
+					"type": "City",
+					"name": "Bangalore",
+					"expanded": false,
+					"children": []
+				},
+				{
+					"type": "City",
+					"name": "Mysore",
+					"expanded": false,
+					"children": []
+				},
+				{
+					"type": "City",
+					"name": "Mangalore",
+					"expanded": false,
+					"children": []
+				}
+			]
+		}
+	]
+}
+]
